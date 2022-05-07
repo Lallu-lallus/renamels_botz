@@ -39,13 +39,13 @@ class TEXT:
 For source code check about
 """
 
-    START_TEXT = """Hi {user_mention},
+    START_TEXT = """𝙷𝚒 {user_mention},
 
-I am a telegram renamer with permanent thumbnail.
+ 𝙸 𝙰𝚖 𝙰 𝚂𝚒𝚖𝚙𝚕𝚎 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖𝚎 𝙵𝚒𝚕𝚎 𝚁𝚎𝚗𝚊𝚖𝚎𝚛 𝙱𝚘𝚝.
 
-𝖥𝗈𝗋 𝖬𝗈𝗋𝖾 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 𝖲𝖾𝖾 𝖧𝖾𝗅𝗉.
+ 𝖥𝗈𝗋 𝖬𝗈𝗋𝖾 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 𝖲𝖾𝖾 𝖧𝖾𝗅𝗉.
 
-**Maintained By:** {bot_owner}
+**Maintained By: @Ls_Bots
 """
 
 
